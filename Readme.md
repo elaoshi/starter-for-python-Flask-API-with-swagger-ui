@@ -21,3 +21,8 @@ post request with multiple parames
 ```
 sh example-with-params.sh
 ```
+
+
+<img src='/blob/master/screenshots/run.jpg?raw=true'>
+
+<img src='/blob/master/screenshots/flask-swagger-demo.jpg?raw=true'>
