@@ -23,6 +23,6 @@ sh example-with-params.sh
 ```
 
 
-<img src='/blob/master/screenshots/run.jpg?raw=true'>
+<img src='https://github.com/elaoshi/starter-for-python-Flask-API-with-swagger-ui/blob/master/screenshots/run.jpg?raw=true'>
 
-<img src='/blob/master/screenshots/flask-swagger-demo.jpg?raw=true'>
+<img src='https://github.com/elaoshi/starter-for-python-Flask-API-with-swagger-ui/blob/master/screenshots/flask-swagger-demo.jpg?raw=true'>
